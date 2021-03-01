@@ -15,7 +15,7 @@ Python - version 3.7+
 ## Cara Menjalankan
 1. Buka terminal dan arahkan pada direktori yang dikehendaki untuk menyimpan kode program 
 2. Salin repository git dengan perintah ``git clone https://github.com/dethaa/Tucil2_13519092`` 
-3. Jalankan file 13519092-main.py yang terdapat pada folder src, dapat melalui terminal dengan mengarahkan direktori pada folder src kemudian menjalankan perintah berikut: ```python3 13519092-main.py```
+3. Jalankan file 13519092-main.py yang terdapat pada folder src, dapat melalui terminal dengan mengarahkan direktori pada folder src kemudian menjalankan perintah  ``python3 13519092-main.py``
 4. Setelah diminta untuk memasukkan nama file test, masukkan nama file lengkap dengan ekstensinya. Masukan harus sesuai dengan nama file yang terdapat pada folder test. Contoh: test1.txt
 5. Solusi kemudian ditampilkan ke layar
 
